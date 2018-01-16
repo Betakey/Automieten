@@ -1,0 +1,12 @@
+c:\users\kim\Source\Repos\AutosMieten\AutosMieten\obj\Debug\AutosMieten.csprojResolveAssemblyReference.cache
+c:\users\kim\Source\Repos\AutosMieten\AutosMieten\obj\Debug\AutosMieten.RocketForm.resources
+c:\users\kim\Source\Repos\AutosMieten\AutosMieten\obj\Debug\AutosMieten.Properties.Resources.resources
+c:\users\kim\Source\Repos\AutosMieten\AutosMieten\obj\Debug\AutosMieten.csproj.GenerateResource.Cache
+c:\users\kim\Source\Repos\AutosMieten\AutosMieten\obj\Debug\AutosMieten.csproj.CoreCompileInputs.cache
+c:\users\kim\Source\Repos\AutosMieten\AutosMieten\bin\Debug\AutosMieten.exe.config
+c:\users\kim\Source\Repos\AutosMieten\AutosMieten\bin\Debug\AutosMieten.exe
+c:\users\kim\Source\Repos\AutosMieten\AutosMieten\bin\Debug\AutosMieten.pdb
+c:\users\kim\Source\Repos\AutosMieten\AutosMieten\bin\Debug\MySql.Data.dll
+c:\users\kim\Source\Repos\AutosMieten\AutosMieten\bin\Debug\MySql.Data.xml
+c:\users\kim\Source\Repos\AutosMieten\AutosMieten\obj\Debug\AutosMieten.exe
+c:\users\kim\Source\Repos\AutosMieten\AutosMieten\obj\Debug\AutosMieten.pdb
